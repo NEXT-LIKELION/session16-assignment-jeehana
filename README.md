@@ -2,7 +2,7 @@
 
 
 URL:
-(https://v0-new-project-3i0xghuyifd.vercel.app/)](https://v0-new-project-3i0xghuyifd.vercel.app/)
+(https://v0-new-project-3i0xghuyifd.vercel.app/)
 
 ![image](https://github.com/user-attachments/assets/06f1fe49-25f2-40d3-bed4-2b5b478681dc)
 
